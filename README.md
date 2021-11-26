@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there👋 I am studying Full-Stack programming <br> 💻 21.06.23 ~ 22.01.24 </h3>
+<h3 align="center"> Hi there👋 <br> I am studying Full-Stack programming <br> 💻 21.06.23 ~ 22.01.24 </h3>
 <br>
 
 <h4 align="center"> 🛎️ CONTACT 🛎️ </h4>
