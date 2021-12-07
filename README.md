@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Minju%20Kim&fontSize=90&animation=twinkling" />
+
 <h3 align="center">안녕하세요👋</h3><h4 align="center">풀스택 개발자 양성 과정을 통해<br> 개발 공부를 하고 있습니다. <br> 💻 21.06.23 ~ 22.01.24</h4>
 <br>
 
