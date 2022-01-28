@@ -3,7 +3,7 @@
 <h3 align="center">안녕하세요👋</h3><h5 align="center">백엔드 개발자가 되기 위해 취업준비중입니다. <br>교육원에서 개발자 양성 과정을 통해 웹개발 공부를 했습니다. <br> 💻 21.06.23 ~ 22.01.24 <br></h5>
 <br>
 
-<h4 align="center"> 🛎️ CONTACT🛎️ </h4>
+<h4 align="center"> 🛎️ CONTACT ME 🛎️ </h4>
 
 <p align="center">
 <a href="mailto:dooroojoo@kakao.com"><img src="https://img.shields.io/badge/KakaoMail-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
