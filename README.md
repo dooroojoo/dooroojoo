@@ -18,3 +18,7 @@
   <img src="https://img.shields.io/badge/-jQuery-%0769AD?style=flat-square&logo=jQuery&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white"> <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&amp;logo=figma&amp;logoColor=white">
 <br>
+  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dooroojoo&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dooroojoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
