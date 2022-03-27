@@ -8,7 +8,6 @@
 <p align="center">
 <a href="mailto:dooroojoo@kakao.com"><img src="https://img.shields.io/badge/KakaoMail-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
 <a href="mailto:814617@naver.com"><img src="https://img.shields.io/badge/NaverMail-00c73c?style=flat-square&logo=Naver&logoColor=white&link=814617@naver.com"/></a>
-<a href="https://blog.naver.com/PostList.naver?blogId=814617&from=postList&categoryNo=11&parentCategoryNo=11"><img src="https://img.shields.io/badge/Blog-00c73c?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/PostList.naver?blogId=814617&from=postList&categoryNo=11&parentCategoryNo=11"/></a>
 </p>
 
 <h4 align="center">📚 TECH STACK 📚 </h4>
