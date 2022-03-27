@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Minju%20Kim&fontSize=90&animation=twinkling" />
 
-<h3 align="center">안녕하세요👋</h3><h5 align="center">백엔드 개발자가 되기 위해 취업준비중인 김민주입니다. <br>교육원에서 개발자 양성 과정을 수료했습니다. <br> 💻 21.06.23 ~ 22.01.24 <br></h5>
+<h3 align="center">Hi👋</h3><h5 align="center">I am a Full-Stack developer. 💻</h5>
 <br>
 
 <h4 align="center"> 🛎️ CONTACT ME 🛎️ </h4>
