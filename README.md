@@ -4,8 +4,8 @@
 ##### CONTACT ME 🛎️
 
 
-<a href="mailto:dooroojoo@kakao.com"><img src="https://img.shields.io/badge/KakaoMail-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
-<a href="https://velog.io/@dooroojoo"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dooroojoo"/></a>
+<a href="mailto:dooroojoo@kakao.com" target="_blank"><img src="https://img.shields.io/badge/KakaoMail-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
+<a href="https://velog.io/@dooroojoo" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dooroojoo"/></a>
 
 
 ##### TECH & LANGUAGES 📚
