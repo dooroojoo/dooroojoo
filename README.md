@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Minju%20Kim&fontSize=90&animation=twinkling" />
 
-<h3 align="center">Hi👋</h3><h5 align="center">I am a Full-Stack developer. 💻</h5>
-<br>
-
 <h4 align="center"> 🛎️ CONTACT ME 🛎️ </h4>
 
 <p align="center">
