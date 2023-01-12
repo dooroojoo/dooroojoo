@@ -8,9 +8,9 @@
 <a href="https://velog.io/@dooroojoo" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dooroojoo"/></a>
 
 
-##### TECH & LANGUAGES 📚
+##### EXPERIENCED 📚
 
-<img src="https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&amp;logo=Eclipse IDE&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-00000?style=flat-square&amp;logo=IntelliJ IDEA&amp;logoColor=white"/>
